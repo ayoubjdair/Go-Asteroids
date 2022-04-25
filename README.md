@@ -14,8 +14,7 @@ Shoot as many asteroids as you can! Avoid collisions!
 
 # Player
 
-The player controls a space ship using the arrow keys. When the game is initialised, the width and height of the ship are set to constants in the code of 50 & 80 respectively. The X & Y coordinates are also set to perfectly centre the ship in the bottom half of the screen, ready to take on the asteroids above. The width and height of the screen are also stored as constants and these are used to position the space ship.
-
+The player controls a space ship using the arrow keys. When the game is initialised, the width and height of the ship are set to constants in the code of 50 & 80 respectively. The X & Y coordinates are also set to perfectly centre the ship in the bottom half of the screen, ready to take on the asteroids above.
 
 # Levels
 
